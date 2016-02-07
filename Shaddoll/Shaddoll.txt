@@ -1,4 +1,4 @@
-*Main Deck (40):*
+Main Deck (40):
 1x Black Luster Soldier - Envoy of the Beginning
 1x Chaos Sorcerer
 3x Shaddoll Beast
@@ -22,7 +22,7 @@
 1x Compulsory Evacuation Device
 3x Vanity's Emptiness
 
-*Extra Deck (15):*
+Extra Deck (15):
 3x El Shaddoll Construct
 2x El Shaddoll Winda
 1x Crimson Blader

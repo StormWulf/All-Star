@@ -1,4 +1,4 @@
-*Main Deck (41)*
+Main Deck (41)
 1x Archlord Kristya
 1x Aurkus, Lightsworn Druid
 3x Celestia, Lightsworn Angel
@@ -26,7 +26,7 @@
 1x Royal Oppression
 1x Torrential Tribute
 
-*Extra Deck (15)*
+Extra Deck (15)
 1x Ally of Justice Catastor
 1x Arcanite Magician
 1x Armory Arm

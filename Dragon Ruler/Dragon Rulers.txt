@@ -1,4 +1,4 @@
-*Main Deck (40):*
+Main Deck (40):
 1x Flamvell Guard
 3x Blaster, Dragon Ruler of Infernos
 3x Tidal, Dragon Ruler of Waterfalls
@@ -20,7 +20,7 @@
 
 2x Vanity's Emptiness
 
-*Extra Deck (15):*
+Extra Deck (15):
 1x Crimson Blader
 1x Scrap Dragon
 1x Colossal Fighter

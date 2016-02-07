@@ -1,4 +1,4 @@
-*Main Deck (40)*
+Main Deck (40)
 2x Dark Grepher
 3x Infernity Archfiend
 1x Infernity Avenger
@@ -24,7 +24,7 @@
 1x Torrential Tribute
 1x Trap Dustshoot
 
-*Extra Deck (15)*
+Extra Deck (15)
 1x Ally of Justice Catastor
 1x Armory Arm
 1x Black Rose Dragon

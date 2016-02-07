@@ -1,4 +1,4 @@
-*Main Deck (40):*
+Main Deck (40):
 2x Dark Armed Dragon
 1x Caius the Shadow Monarch
 3x Destiny HERO - Malicious
@@ -27,7 +27,7 @@
 2x Royal Oppression
 3x Solemn Judgment
 
-*Extra Deck (15):*
+Extra Deck (15):
 2x Red Dragon Archfiend
 2x Colossal Fighter
 3x Thought Ruler Archfiend
