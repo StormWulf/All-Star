@@ -1,0 +1,42 @@
+*Main Deck (41):*
+1x Gorz the Emissary of Darkness
+1x Mystic Tomato
+3x Gravekeeper's Spy
+1x Gravekeeper's Guard
+2x Summoner Monk
+2x Rescue Cat
+3x X-Saber Airbellum
+1x Sangan
+1x Neo-Spacian Dark Panther
+1x Ryko, Lightsworn Hunter
+3x Cyber Valley
+
+1x Allure of Darkness
+1x Heavy Storm
+2x Mind Control
+1x Giant Trunade
+2x Machine Duplication
+2x Pot of Avarice
+1x Monster Reborn
+1x Brain Control
+2x Book of Moon
+1x My Body as a Shield
+
+2x Bottomless Trap Hole
+1x Torrential Tribute
+1x Trap Dustshoot
+1x Crush Card Virus (pre-errata)
+3x Solemn Judgment
+
+*Extra Deck (15):*
+1x Colossal Fighter
+2x Stardust Dragon
+2x Dark Strike Fighter (pre-errata)
+1x Blackwing Armor Master
+2x Black Rose Dragon
+2x Arcanite Magician
+1x Goyo Guardian
+1x Gaia Knight, the Force of Earth
+1x Iron Chain Dragon
+1x Blackwing Armed Wing
+1x Magical Android

@@ -1,0 +1,40 @@
+*Main Deck (40)*
+2x Dark Grepher
+3x Infernity Archfiend
+1x Infernity Avenger
+3x Infernity Beetle
+2x Infernity Mirage
+3x Infernity Necromancer
+
+1x Foolish Burial
+1x Giant Trunade
+1x Heavy Storm
+3x Infernity Launcher
+1x Mystical Space Typhoon
+1x One for One
+1x Reinforcement of the Army
+
+2x Bottomless Trap Hole
+2x Dust Tornado
+3x Infernity Barrier
+3x Infernity Inferno
+1x Mirror Force
+1x Solemn Judgment
+3x Threatening Roar
+1x Torrential Tribute
+1x Trap Dustshoot
+
+*Extra Deck (15)*
+1x Ally of Justice Catastor
+1x Armory Arm
+1x Black Rose Dragon
+1x Brionac, Dragon of the Ice Barrier
+1x Colossal Fighter
+1x Gaia Knight, the Force of Earth
+1x Goyo Guardian
+1x Infernity Doom Dragon
+1x Magical Android
+2x Mist Wurm
+1x Red Dragon Archfiend
+1x Stardust Dragon
+1x Stygian Sergeants 

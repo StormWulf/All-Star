@@ -1,0 +1,35 @@
+*Main Deck (40):*
+1x Flamvell Guard
+3x Blaster, Dragon Ruler of Infernos
+3x Tidal, Dragon Ruler of Waterfalls
+3x Tempest, Dragon Ruler of Storms
+3x Redox, Dragon Ruler of Boulders
+2x Reactan, Dragon Ruler of Pebbles
+2x Stream, Dragon Ruler of Droplets
+2x Burner, Dragon Ruler of Sparks
+2x Lightning, Dragon Ruler of Drafts
+3x Maxx "C"
+3x Effect Veiler
+
+1x Heavy Storm
+3x Sacred Sword of Seven Stars
+1x Card Destruction
+2x Gold Sarcophagus
+1x Book of Moon
+3x Super Rejuvenation
+
+2x Vanity's Emptiness
+
+*Extra Deck (15):*
+1x Crimson Blader
+1x Scrap Dragon
+1x Colossal Fighter
+1x Karakuri Shogun mdl 00 "Burei"
+1x Black Rose Dragon
+1x Ancient Sacred Wyvern
+1x Armory Arm
+1x Mermail Abyssgaios
+3x Mecha Phantom Beast Dracossack
+1x Gaia Dragon, the Thunder Charger
+2x Number 11: Big Eye
+1x Gem-Knight Pearl

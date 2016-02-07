@@ -1,0 +1,44 @@
+*Main Deck (41)*
+1x Archlord Kristya
+1x Aurkus, Lightsworn Druid
+3x Celestia, Lightsworn Angel
+1x Ehren, Lightsworn Monk
+1x Garoth, Lightsworn Warrior
+3x Honest
+1x Jain, Lightsworn Paladin
+2x Judgment Dragon
+3x Lumina, Lightsworn Summoner
+2x Lyla, Lightsworn Sorceress
+3x Necro Gardna
+1x Plaguespreader Zombie
+1x Ryko, Lightsworn Hunter
+3x Wulf, Lightsworn Beast
+
+1x Brain Control
+3x Charge of the Light Brigade
+1x Gold Sarcophagus
+1x Heavy Storm
+1x Mystical Space Typhoon
+3x Solar Recharge
+
+2x Beckoning Light
+1x Mirror Force
+1x Royal Oppression
+1x Torrential Tribute
+
+*Extra Deck (15)*
+1x Ally of Justice Catastor
+1x Arcanite Magician
+1x Armory Arm
+1x Black Rose Dragon
+1x Blackwing Armor Master
+1x Brionac, Dragon of the Ice Barrier
+1x Colossal Fighter
+1x Doomkaiser Dragon
+1x Goyo Guardian
+1x Magical Android
+1x Mist Wurm
+1x Red Dragon Archfiend
+1x Stardust Dragon
+1x Tempest Magician
+1x Thought Ruler Archfiend 
