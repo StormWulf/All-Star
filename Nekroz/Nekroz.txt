@@ -1,4 +1,4 @@
-Monsters
+Main Deck (43):
 1x Djinn Releaser of Rituals
 1x Great Sorcerer of the Nekroz
 3x Manju of the Ten Thousand Hands
@@ -12,7 +12,6 @@ Monsters
 3x Senju of the Thousand Hands
 2x Shurit, Strategist of the Nekroz
 
-Spells
 2x Book of Eclipse
 1x Book of Moon
 3x Mystical Space Typhoon
@@ -23,7 +22,7 @@ Spells
 1x Raigeki
 3x Reinforcement of the Army
 
-Extra Deck
+Extra Deck (15):
 1x Shooting Quasar Dragon
 1x Star Eater
 2x Herald of the Arc Light

@@ -21,6 +21,7 @@ Main Deck (40):
 1x Brain Control
 1x Mystical Space Typhoon
 1x Emergency Teleport
+
 1x Crush Card Virus (pre-errata)
 2x Phoenix Wing Wind Blast
 1x Trap Dustshoot
