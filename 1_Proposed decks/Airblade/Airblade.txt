@@ -1,0 +1,23 @@
+Monsters [13]
+1 Dark Magician of Chaos
+1 Destiny Hero - Dasher
+3 Destiny Hero - Diamond Dude
+3 Destiny Hero - Malicious
+3 Elemental Hero Stratos
+1 Exiled Force
+1 Jinzo
+
+Spells [27]
+1 Card Destruction
+3 Destiny Draw
+3 Dimension Fusion
+3 Divine Sword - Phoenix Blade
+2 E - Emergency Call
+1 Graceful Charity
+1 Heavy Storm
+3 Lightning Vortex
+1 Magical Stone Excavation
+3 Monster Gate
+1 Premature Burial
+3 Reasoning
+2 Reinforcement of the Army

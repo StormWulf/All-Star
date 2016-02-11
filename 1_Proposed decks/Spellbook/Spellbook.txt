@@ -1,0 +1,42 @@
+Monsters[9]
+1 Defender, The Magical Knight
+2 Jowgen the Spiritualist
+3 Kycoo the Ghost Destroyer
+3 Spellbook Magician of Prophecy
+
+Spells [26]
+1 Book of Moon
+3 Spellbook Library of the Crescent
+1 Spellbook of Eternity
+2 Spellbook of Fate
+3 Spellbook of Judgment
+1 Spellbook of Life
+2 Spellbook of Power
+3 Spellbook of Secrets
+3 Spellbook of the Master
+2 Spellbook of Wisdom
+3 Spellbook Star Hall
+2 The Grand Spellbook Tower
+
+Traps[5]
+3 Phoenix Wing Wind Blast
+1 Solemn Judgment
+1 Solemn Warning
+
+Extra Deck
+
+1 Abyss Dweller
+1 Daigusto Phoenix
+1 Diamond Dire Wolf
+1 Evilswarm Ouroboros
+1 Gachi Gachi Gantetsu
+1 Gagaga Cowboy
+1 Gem-Knight Pearl
+1 Maestroke the Symphony Djinn
+1 Number 16: Shock Master
+1 Number 39: Utopia
+1 Number 50: Blackship of Corn
+1 Number 96: Dark Mist
+1 Photon Papilloperative
+1 Shining Elf
+1 Wind-Up Zenmaister
