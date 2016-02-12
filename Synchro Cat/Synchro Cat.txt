@@ -3,8 +3,8 @@ Monsters: 19
 2 Rescue Cat
 1 Sangan
 2 Mystic Tomato
-2 Gravekeeper’s Guard
-1 Gravekeeper’s Spy
+1 Gravekeeper’s Guard
+2 Gravekeeper’s Spy
 2 Summoner Monk
 1 Cyber Dragon
 2 Blackwing – Gale The Whirlwind
