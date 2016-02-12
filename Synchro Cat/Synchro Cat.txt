@@ -1,42 +1,47 @@
-Main Deck (41):
-1x Gorz the Emissary of Darkness
-1x Mystic Tomato
-3x Gravekeeper's Spy
-1x Gravekeeper's Guard
-2x Summoner Monk
-2x Rescue Cat
-3x X-Saber Airbellum
-1x Sangan
-1x Neo-Spacian Dark Panther
-1x Ryko, Lightsworn Hunter
-3x Cyber Valley
+Monsters: 19
+3 X-Saber Airbellum
+2 Rescue Cat
+1 Sangan
+2 Mystic Tomato
+2 Gravekeeper’s Guard
+1 Gravekeeper’s Spy
+2 Summoner Monk
+1 Cyber Dragon
+2 Blackwing – Gale The Whirlwind
+1 Gorz The Emissary Of Darkness
+1 Des Koala
+1 Neo-Spacian Dark Panther
+1 Dark Armed Dragon
 
-1x Allure of Darkness
-1x Heavy Storm
-2x Mind Control
-1x Giant Trunade
-2x Machine Duplication
-2x Pot of Avarice
-1x Monster Reborn
-1x Brain Control
-2x Book of Moon
-1x My Body as a Shield
+Spells: 17
+3 Cold Wave
+1 Giant Trunade
+1 Mystical Space Typhoon
+1 Brain Control
+2 Mind Control
+1 Book Of Moon
+1 Monster Reborn
+2 Pot Of Avarice
+1 Scapegoat
+1 Instant Fusion
+1 Heavy Storm
+2 Allure Of Darkness
 
-2x Bottomless Trap Hole
-1x Torrential Tribute
-1x Trap Dustshoot
-1x Crush Card Virus (pre-errata)
-3x Solemn Judgment
+Traps: 4
+1 Torrential Tribute
+2 Bottomless Trap Hole
+1 Crush Card Virus (pre-errata)
 
-Extra Deck (15):
-1x Colossal Fighter
-2x Stardust Dragon
-2x Dark Strike Fighter (pre-errata)
-1x Blackwing Armor Master
-2x Black Rose Dragon
-2x Arcanite Magician
-1x Goyo Guardian
-1x Gaia Knight, the Force of Earth
-1x Iron Chain Dragon
-1x Blackwing Armed Wing
-1x Magical Android
+Extra: 15
+2 Stardust Dragon
+1 Colossal Fighter
+1 Black Rose Dragon
+2 Dark Strike Fighter (pre-errata)
+2 Arcanite Magician
+1 Red Dragon Archfiend
+1 Karbonala Warrior
+1 Reaper On The Nightmare
+1 Goyo Guardian
+1 Gaia Knight, The Force Of Earth
+1 Magical Android
+1 Blackwing Armor Master
