@@ -2,7 +2,7 @@ Monsters [19]
 1 D.D. Crow
 3 Dark Armed Dragon
 2 Dark Grepher
-1 Dark Magician of Chaos
+1 Dark Magician of Chaos (pre-errata)
 1 Darklord Zerato
 2 Destiny Hero - Dasher
 1 Destiny Hero - Disk Commander
