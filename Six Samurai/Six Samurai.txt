@@ -1,42 +1,41 @@
+Monsters
+1x Enishi, Shien's Chancellor
+2x Grandmaster of the Six Samurai
+1x Hand of the Six Samurai
+3x Kagemusha of the Six Samurai
+3x Legendary Six Samurai - Kageki
+3x Legendary Six Samurai - Kizan
+	
+Spells
+1x Dark Hole
+3x Gateway of the Six
+1x Giant Trunade
+1x Monster Reborn
+2x Mystical Space Typhoon
+1x Reinforcement of the Army
+3x Shien's Smoke Signal
+3x Six Samurai United
+3x Upstart Goblin
+	
+Traps
+2x Double-Edged Sword Technique
+1x Mirror Force
+2x Musakani Magatama
+1x Solemn Judgment
+3x Solemn Warning
 
-    Monsters
-    1x Enishi, Shien's Chancellor
-    2x Grandmaster of the Six Samurai
-    1x Hand of the Six Samurai
-    3x Kagemusha of the Six Samurai
-    3x Legendary Six Samurai - Kageki
-    3x Legendary Six Samurai - Kizan
 	
-    Spells
-    1x Dark Hole
-    3x Gateway of the Six
-    1x Giant Trunade
-    1x Monster Reborn
-    2x Mystical Space Typhoon
-    1x Reinforcement of the Army
-    3x Shien's Smoke Signal
-    3x Six Samurai United
-    3x Upstart Goblin
-	
-    Traps
-    2x Double-Edged Sword Technique
-    1x Mirror Force
-    2x Musakani Magatama
-    1x Solemn Judgment
-    3x Solemn Warning
-
-	
-    Extra Deck
-    1x Chimeratech Fortress Dragon
-    2x Ally of Justice Catastor
-    1x Ally of Justice Decisive Armor
-    1x Black Rose Dragon
-    1x Brionac, Dragon of the Ice Barrier
-    1x Colossal Fighter
-    1x Goyo Guardian
-    2x Legendary Six Samurai - Shi En
-    1x Magical Android
-    1x Mist Wurm
-    1x Naturia Barkion
-    1x Scrap Dragon
-    1x Stardust Dragon
+Extra Deck
+1x Chimeratech Fortress Dragon
+2x Ally of Justice Catastor
+1x Ally of Justice Decisive Armor
+1x Black Rose Dragon
+1x Brionac, Dragon of the Ice Barrier
+1x Colossal Fighter
+1x Goyo Guardian
+2x Legendary Six Samurai - Shi En
+1x Magical Android
+1x Mist Wurm
+1x Naturia Barkion
+1x Scrap Dragon
+1x Stardust Dragon
