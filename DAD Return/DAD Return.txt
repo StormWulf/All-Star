@@ -1,34 +1,38 @@
+Deck Total [41]
+
 Monsters [19]
-1 D.D. Crow
+1 Card Trooper
+3 Cyber Valley
 3 Dark Armed Dragon
-2 Dark Grepher
-1 Dark Magician of Chaos (pre-errata)
+1 Dark Grepher
+1 Dark Magician of Chaos
 1 Darklord Zerato
-2 Destiny Hero - Dasher
+1 Destiny Hero - Dasher
 1 Destiny Hero - Disk Commander
 2 Destiny Hero - Malicious
+1 Destiny HERO - Plasma
 1 Elemental Hero Stratos
-2 Light and Darkness Dragon
-1 Prometheus, King of the Shadows
+1 Jinzo
 1 Sangan
 1 Spirit Reaper
 
-Spells [16]
+Spells [15]
 3 Allure of Darkness
 1 Brain Control
-1 D.D.R. - Different Dimension Reincarnation
 3 Destiny Draw
 1 Dimension Fusion
-1 Enemy Controller
 1 Gold Sarcophagus
 1 Heavy Storm
+1 Machine Duplication
 1 Monster Reborn
 1 Premature Burial
-2 Reinforcement of the Army
+1 Reinforcement of the Army
+1 Scapegoat
 
-Traps [5]
-1 Crush Card Virus (pre-errata)
+Traps [7]
+1 Crush Card Virus
 1 Mind Crush
-1 Return from the Different Dimension
+3 Return from the Different Dimension
 1 Torrential Tribute
 1 Trap Dustshoot
+
