@@ -5,7 +5,7 @@ Monsters [19]
 3 Cyber Valley
 3 Dark Armed Dragon
 1 Dark Grepher
-1 Dark Magician of Chaos
+1 Dark Magician of Chaos (pre-errata)
 1 Darklord Zerato
 1 Destiny Hero - Dasher
 1 Destiny Hero - Disk Commander
@@ -30,7 +30,7 @@ Spells [15]
 1 Scapegoat
 
 Traps [7]
-1 Crush Card Virus
+1 Crush Card Virus (pre-errata)
 1 Mind Crush
 3 Return from the Different Dimension
 1 Torrential Tribute
