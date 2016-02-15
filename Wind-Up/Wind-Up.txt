@@ -1,8 +1,8 @@
 Monsters
 3x Effect Veiler
-1x Gorz the Emissary of Darkness
+2x Maxx "C"
 1x Sangan
-1x Spirit Reaper
+1x Tour Bus From the Underworld
 3x Tour Guide From the Underworld
 1x Wind-Up Hunter
 2x Wind-Up Magician
@@ -14,31 +14,30 @@ Spells
 1x Book of Moon
 1x Dark Hole
 1x Heavy Storm
-2x Instant Fusion
 1x Mind Control
 1x Monster Reborn
-3x Mystical Space Typhoon
+2x Mystical Space Typhoon
 1x Pot of Avarice
+1x Soul Taker
 2x Wind-Up Factory
 
 Traps
 2x Bottomless Trap Hole
-1x Mirror Force
 1x Solemn Judgment
 2x Solemn Warning
 2x Torrential Tribute
 
 Extra Deck
-1x Cyber Saurus
-1x Dragoness the Wicked Knight
+1x Stardust Dragon
 1x Adreus, Keeper of Armageddon
+1x Gaia Dragon, the Thunder Charger
 1x Leviair the Sea Dragon
+1x Muzurhythm the String Djinn
 1x Number 17: Leviathan Dragon
 1x Number 20: Giga-Brilliant
-1x Number 30: Acid Golem of Destruction
 1x Number 39: Utopia
-1x Steelswarm Roach
 1x Temtempo the Percussion Djinn
 1x Tiras, Keeper of Genesis
+1x Wind-Up Arsenal Zenmaioh
 3x Wind-Up Carrier Zenmaity
-1x Wind-Up Zenmaines
+1x Wind-Up Zenmaines 

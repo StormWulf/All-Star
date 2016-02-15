@@ -1,48 +1,55 @@
-Monsters
-2x Breaker the Magical Warrior
-1x Dandylion
-2x Debris Dragon
-2x Effect Veiler
-1x Glow-Up Bulb
-2x Lonefire Blossom
-2x Maxx "C"
+Monsters:
+1x Black Luster Soldier - Envoy of the Beginning
+1x Gorz The Emissary of Darkness
+1x Caius The Shadow Monarch
+2x Thunder King Rai-oh
 3x Reborn Tengu
+1x Debris Dragon
+3x Tour Guide of the Underworld
 1x Sangan
+1x Lonefire Blossom 
+1x Spirit Reaper
+2x Maxx C
 1x Spore
-3x Tour Guide From the Underworld
+1x Glow-Up Bulb
+2x Effect Veiler
 
-Spells
-1x Book of Moon
-1x Dark Hole
-2x Enemy Controller
-1x Foolish Burial
-1x Giant Trunade
+Spells:
+1x One For one
+1x Heavy Storm
 1x Mind Control
+1x Dark Hole
+1x Pot of Avarice
+1x Foolish Burial
 1x Monster Reborn
 2x Mystical Space Typhoon
-1x One for One
-2x Pot of Avarice
+1x Book of Moon
+1x Scapegoat
+2X Enemy Controller 
 
-Traps
-1x Call of the Haunted
-1x Limit Reverse
-2x Seven Tools of the Bandit
-1x Solemn Judgment
-2x Solemn Warning
+Traps: 
 1x Torrential Tribute
+1x Trap Dustshoot
+1x Call of the Haunted
+1x Solemn Judgement
+2x Solemn Warning
 
-Extra Deck
-1x Ally of Justice Catastor
-1x Ancient Fairy Dragon
-1x Arcanite Magician
-1x Armory Arm
-1x Black Rose Dragon
-1x Brionac, Dragon of the Ice Barrier
-2x Formula Synchron
-1x Iron Chain Dragon
+Extra Deck: 
+1x Trishula: Dragon of the Ice Barrier
 1x Scrap Dragon
 1x Stardust Dragon
+1x Black Rose Dragon
+1x Ancient Fairy Dragon
+1x Brionac: Dragon of the Ice Barrier
+1x Orient Dragon
 1x T.G. Hyper Librarian
-1x Trishula, Dragon of the Ice Barrier
-1x Grenosaurus
-1x Number 39: Utopia 
+1x Ally of Justice Catastor
+1x Armory Arm
+1x Formula Synchron
+1x Number 39: Utopia
+1x Steelswarm Roach
+1x Number 17: Leviathan Dragon
+1x Leviair the Sea Dragon
+
+
+ 
