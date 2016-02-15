@@ -1,37 +1,32 @@
 Monsters
-1x Blackwing - Zephyros the Elite
-1x Caius the Shadow Monarch
+2x Breaker the Magical Warrior
 1x Dandylion
 2x Debris Dragon
-1x Effect Veiler
+2x Effect Veiler
 1x Glow-Up Bulb
-1x Gorz the Emissary of Darkness
 2x Lonefire Blossom
 2x Maxx "C"
 3x Reborn Tengu
-1x Ryko, Lightsworn Hunter
 1x Sangan
 1x Spore
-1x Tour Guide From the Underworld
+3x Tour Guide From the Underworld
 
 Spells
 1x Book of Moon
 1x Dark Hole
-1x Enemy Controller
+2x Enemy Controller
 1x Foolish Burial
 1x Giant Trunade
+1x Mind Control
 1x Monster Reborn
 2x Mystical Space Typhoon
 1x One for One
 2x Pot of Avarice
 
 Traps
-1x Bottomless Trap Hole
 1x Call of the Haunted
-1x Dust Tornado
 1x Limit Reverse
-1x Mirror Force
-1x Royal Oppression
+2x Seven Tools of the Bandit
 1x Solemn Judgment
 2x Solemn Warning
 1x Torrential Tribute
@@ -46,7 +41,8 @@ Extra Deck
 2x Formula Synchron
 1x Iron Chain Dragon
 1x Scrap Dragon
-1x Shooting Star Dragon
 1x Stardust Dragon
-2x T.G. Hyper Librarian
-1x Trishula, Dragon of the Ice Barrier 
+1x T.G. Hyper Librarian
+1x Trishula, Dragon of the Ice Barrier
+1x Grenosaurus
+1x Number 39: Utopia 
