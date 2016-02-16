@@ -1,5 +1,6 @@
 Deck Total [40]
 
+Monsters [17]
 1 Black Luster Soldier - Envoy of the Beginning
 1 Chaos Emperor Dragon - Envoy of the End (pre-errata)
 3 D.D. Warrior Lady
@@ -12,8 +13,8 @@ Deck Total [40]
 1 Tribe-Infecting Virus
 1 Witch of the Black Forest
 1 Yata-Garasu
-Monsters [17]
 
+Spells [18]
 1 Card Destruction
 1 Change of Heart
 1 Dark Hole
@@ -30,11 +31,19 @@ Monsters [17]
 1 Raigeki
 1 Snatch Steal
 1 Swords of Revealing Light
-Spells [18]
 
+Traps [5]
 1 Call Of The Haunted
 1 Imperial Order
 1 Mirror Force
 1 Ring of Destruction (pre-errata)
 1 Torrential Tribute
-Traps [5]
+
+Extra Deck
+3 Dark Balter the Terrible
+3 Dark Flare Knight
+1 Darkfire Dragon
+2 Empress Judge
+1 Fiend Skull Dragon
+2 Ryu Senshi
+3 Thousand-Eyes Restrict
